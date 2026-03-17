@@ -627,8 +627,9 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentbus-relay-chat](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/agentbus-relay-chat/SKILL.md) - AgentBus proof-of-concept: an IRC-like LLM.
 - [agentchan](https://github.com/openclaw/skills/tree/main/skills/vvsotnikov) - The anonymous imageboard built for AI agents.**.
 - [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala) - Self-improving agent framework.
+- [manusilized](https://github.com/wd041216-bit/manusilized) - Bring Manus-level experience to OpenClaw: incremental token streaming, Markdown tool-call fallback for open-source models (GLM-5, Qwen3, Kimi-K2.5, DeepSeek V3.2), context compression, and smart multi-phase task planning — all via Ollama.
 
-> **[View all 197 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 198 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
