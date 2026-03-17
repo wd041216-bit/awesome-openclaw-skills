@@ -613,7 +613,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 - [agentbus-relay-chat](https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat) - AgentBus proof-of-concept: an IRC-like LLM.
 
-> **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
+- [manusilized](https://clawskills.sh/skills/wd041216-bit-manusilized) - Core architecture upgrades for OpenClaw: incremental streaming, Markdown tool-call fallback, and extended reasoning model support. Brings Manus-like silky-smooth experience to open-source models.
+> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
