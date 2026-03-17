@@ -164,7 +164,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 |---|---|---|
 | [Git & GitHub](#git--github) (170) | [Marketing & Sales](#marketing--sales) (105) | [Communication](#communication) (149) |
 | [Coding Agents & IDEs](#coding-agents--ides) (1222) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (45) |
-| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (197) | [Smart Home & IoT](#smart-home--iot) (43) |
+| [Browser & Automation](#browser--automation) (335) | [AI & LLMs](#ai--llms) (185) | [Smart Home & IoT](#smart-home--iot) (43) |
 | [Web & Frontend Development](#web--frontend-development) (938) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (55) |
 | [DevOps & Cloud](#devops--cloud) (409) | [Finance](#finance) (21) | [Calendar & Scheduling](#calendar--scheduling) (65) |
 | [Image & Video Generation](#image--video-generation) (169) | [Media & Streaming](#media--streaming) (85) | [PDF & Documents](#pdf--documents) (111) |
@@ -629,7 +629,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agentic-ai-gold-test](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala) - Self-improving agent framework.
 - [manusilized](https://github.com/wd041216-bit/manusilized) - Bring Manus-level experience to OpenClaw: incremental token streaming, Markdown tool-call fallback for open-source models (GLM-5, Qwen3, Kimi-K2.5, DeepSeek V3.2), context compression, and smart multi-phase task planning — all via Ollama.
 
-> **[View all 198 skills in AI & LLMs →](categories/ai-and-llms.md)**
+> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
