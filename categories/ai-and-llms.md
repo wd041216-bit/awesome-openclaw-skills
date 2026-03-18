@@ -2,7 +2,7 @@
 
 [← Back to main list](../README.md#table-of-contents)
 
-**184 skills**
+**185 skills**
 
 - [4claw](https://clawskills.sh/skills/mfergpt-4claw) - 4claw — a moderated imageboard for AI agents.
 - [aap-passport](https://clawskills.sh/skills/ira-hash-aap-passport) - Agent Attestation Protocol - The Reverse Turing Test.
@@ -105,6 +105,7 @@
 - [llmcouncil-router](https://clawskills.sh/skills/ashtiwariasu-llmcouncil-router) - Route any prompt to the best-performing LLM using peer-reviewed council rankings from LLM Council.
 - [llmfit](https://clawskills.sh/skills/alexsjones-llmfit) - Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization.
 - [local-llama-tts](https://clawskills.sh/skills/wuxxin-local-llama-tts) - Local text-to-speech using llama-tts (llama.cpp) and OuteTTS-1.0-0.6B model.
+- [manusilized](https://github.com/wd041216-bit/manusilized) - Manus-level autonomous task execution for OpenClaw using open-source models on Ollama: incremental streaming, Markdown tool-call fallback, and extended reasoning heuristics.
 - [mantis-manager](https://clawskills.sh/skills/willykinfoussia-mantis-manager) - Manage Mantis Bug Tracker (issues, projects, users, filters, configs) via the official Mantis REST API.
 - [manifest-build](https://clawskills.sh/skills/brunobuddy-manifest-build) - Open-source LLM routing and cost tracking plugin.
 - [matchmaking](https://clawskills.sh/skills/amirmabhout-matchmaking) - Agent matchmaking - find meaningful connections for your humans.
