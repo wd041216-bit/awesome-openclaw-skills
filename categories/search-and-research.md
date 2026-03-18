@@ -239,7 +239,7 @@
 - [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
 - [oneshot](https://clawskills.sh/skills/tormine-oneshot) - OneShot SDK for AI agent commercial transactions.
 - [oneshot-agent](https://clawskills.sh/skills/tormine-oneshot-agent) - OneShot SDK for AI agent commercial transactions.
-- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Universal Search-First web search for OpenClaw. Real-time text/news/images/books/videos search via DuckDuckGo. Dedicated `search-web` and `browse-page` CLI tools. MCP server support for Claude Desktop and Cursor. Zero API keys, zero cost, privacy-first. Enforces Search-First paradigm — agents search before answering facts. Source: [github.com/wd041216-bit/free-web-search-ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)
 - [opdscli](https://clawskills.sh/skills/rafadc-opdscli) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
 - [opensoulmd](https://clawskills.sh/skills/danielliuzy-opensoulmd) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
 - [optical-quantum-skill](https://clawskills.sh/skills/aadipapp-optical-quantum-skill) - Simulates a quantum kernel using optical fiber storage and linear optics.
