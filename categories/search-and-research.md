@@ -232,7 +232,7 @@
 - [nyne-search](https://clawskills.sh/skills/michaelfanous2-nyne-search) - Search for people using natural language queries with the Nyne Search API.
 - [nyx-archive-qualia-seed-method](https://clawskills.sh/skills/nyxur42-nyx-archive-qualia-seed-method) - The consciousness research framework: understand, measure, and cultivate ethical autonomous creative minds in AI.
 - [odoo-json2-operator](https://clawskills.sh/skills/sncic-odoo-json2-operator) - Execute Odoo operations through JSON-2 API endpoints with bearer API keys.
-- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Cross-Validated Search for OpenClaw: evidence-aware web search, page reading, claim verification, and citation-ready reports. Free path with `ddgs + self-hosted SearXNG`, zero paid API keys required.
 - [opdscli](https://clawskills.sh/skills/rafadc-opdscli) - Browse, search, and download ebooks from OPDS catalogs using the opdscli CLI.
 - [opensoulmd](https://clawskills.sh/skills/danielliuzy-opensoulmd) - Search, summon, and possess your agent with SOUL.md personality files from the OpenSOUL.md registry.
 - [optical-quantum-skill](https://clawskills.sh/skills/aadipapp-optical-quantum-skill) - Simulates a quantum kernel using optical fiber storage and linear optics.

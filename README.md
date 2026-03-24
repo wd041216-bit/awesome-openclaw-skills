@@ -453,7 +453,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [ai-review](https://clawskills.sh/skills/blackshady1130-jpg-ai-review) - Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific.
 - [aihotel](https://clawskills.sh/skills/qiao101660-aihotel) - A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags)
 - [airbnb](https://clawskills.sh/skills/stveenli-airbnb) - Search Airbnb listings with prices, ratings, and direct links.
-- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.
+- [openclaw-free-web-search](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search) - Cross-Validated Search for OpenClaw: evidence-aware web search, page reading, claim verification, and citation-ready reports. Free path with `ddgs + self-hosted SearXNG`, zero paid API keys required.
 - [xquik-x-twitter-scraper](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper) - X API scraper with 40+ tools for AI agents.
 
 > **[View all 352 skills in Search & Research →](categories/search-and-research.md)**
